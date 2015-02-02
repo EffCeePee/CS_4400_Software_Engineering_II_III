@@ -1,0 +1,6 @@
+C:\Users\colton.parry\Documents\CS_4400_Software_Engineering_II_III\Bowling3a\bin\Debug\Bowling3a.exe.config
+C:\Users\colton.parry\Documents\CS_4400_Software_Engineering_II_III\Bowling3a\bin\Debug\Bowling3a.exe
+C:\Users\colton.parry\Documents\CS_4400_Software_Engineering_II_III\Bowling3a\bin\Debug\Bowling3a.pdb
+C:\Users\colton.parry\Documents\CS_4400_Software_Engineering_II_III\Bowling3a\obj\Debug\Bowling3a.csprojResolveAssemblyReference.cache
+C:\Users\colton.parry\Documents\CS_4400_Software_Engineering_II_III\Bowling3a\obj\Debug\Bowling3a.exe
+C:\Users\colton.parry\Documents\CS_4400_Software_Engineering_II_III\Bowling3a\obj\Debug\Bowling3a.pdb
